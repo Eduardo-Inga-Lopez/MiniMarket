@@ -1,6 +1,6 @@
 # Proyecto MiniMarket - Sitio Web de una Sola Página
 
-Desarrolla un sitio web de una sola página para el Home de una empresa de productos, con las siguientes especificaciones de diseño y funcionalidad:
+Desarrolla un sitio web de una sola página para el Home de una empresa de ventas de productos, con las siguientes especificaciones de diseño y funcionalidad:
 
 ## 1. Estructura y Diseño Fijo
 - Coloca el logo de la empresa en la esquina superior izquierda, que permanezca fijo mientras se desplaza la página.
@@ -18,7 +18,7 @@ Desarrolla un sitio web de una sola página para el Home de una empresa de produ
 ## 4. Footer e Iconos Sociales
 - Incluye un footer con íconos de redes sociales (Facebook, Instagram y Twitter), los cuales abren en una nueva página al hacer clic.
 - Agrega un ícono de WhatsApp en el lado derecho de la pantalla que abre una nueva pestaña al hacer clic y permanece fijo al desplazarse.
-- Agrega una lista de enlaces hacia las páginas de tus compañeros.
+
 
 ## 5. Estilo y Colores
 - Usa HTML y CSS exclusivamente, y crea un archivo externo de estilo llamado `styles.css`.
