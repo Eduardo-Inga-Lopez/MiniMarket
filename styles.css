@@ -1,10 +1,11 @@
 :root {
     --primary-color: #2C3E50;
-    --secondary-color: #2980B9;
-    --text-color: #333;
+    --secondary-color: rgb(41, 128, 185); /* RGB */
+    --text-color: hsl(0, 0%, 20%); /* HSL */
     --bg-color: #ecf0f1;
     --accent-color: #e74c3c;
 }
+
 
 * {
     margin: 0;
